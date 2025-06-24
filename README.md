@@ -2,7 +2,8 @@
 
 A Pokémon encyclopedia built with React using the PokeAPI.
 
-![App Screenshot](screenshot.png)
+## Live Demo
+🔗 [https://react-pokedex-shivam.netlify.app/](https://react-pokedex-shivam.netlify.app/)
 
 ## Features
 - Browse Pokémon with pagination
@@ -25,9 +26,6 @@ cd POKEDEX
 npm install
 npm run dev
 ```
-
-## Live Demo
-🔗 [https://react-pokedex-shivam.netlify.app/](https://react-pokedex-shivam.netlify.app/)
 
 ## License
 MIT

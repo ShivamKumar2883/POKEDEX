@@ -3,7 +3,7 @@
 A Pokémon encyclopedia built with React using the PokeAPI.
 
 ## Live Demo
-🔗 [https://react-pokedex-shivam.netlify.app/](https://react-pokedex-shivam.netlify.app/)
+🔗 [https://pokemonbyshivam.netlify.app/](https://pokemonbyshivam.netlify.app/)
 
 ## Features
 - Browse Pokémon with pagination

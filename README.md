@@ -1,8 +1,37 @@
-# React + Vite
+# Pokémon React Pokedex
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Pokémon encyclopedia built with React using the PokeAPI.
 
-Currently, two official plugins are available:
+![App Screenshot](screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Browse Pokémon with pagination
+- Search by name or ID
+- View detailed stats and abilities
+- Filter by Pokémon type
+- Responsive design
+
+## Technologies
+- React
+- PokeAPI
+- React Router
+- Axios
+- CSS3
+
+## Installation
+```bash
+git clone https://github.com/ShivamKumar2883/POKEDEX.git
+cd POKEDEX
+npm install
+npm run dev
+```
+
+## Live Demo
+🔗 [https://react-pokedex-shivam.netlify.app/](https://react-pokedex-shivam.netlify.app/)
+
+## License
+MIT
+
+---
+
+Made by [Shivam Kumar](https://github.com/ShivamKumar2883)
